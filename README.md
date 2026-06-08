@@ -22,7 +22,7 @@
 
 **ESP32-C3-Zero Capacitance & Frequency Meter** to kompaktowy, otwartoźródłowy miernik pojemności oraz częstotliwości oparty na mikrokontrolerze **ESP32-C3-Zero**.
 
-Projekt został stworzony jako niedrogie i praktyczne narzędzie pomiarowe do pracy z elektroniką. Urządzenie pozwala mierzyć pojemność kondensatorów oraz częstotliwość sygnałów cyfrowych.
+Projekt został stworzony jako niedrogie i praktyczne narzędzie pomiarowe do pracy z elektroniką. Urządzenie pozwala mierzyć pojemność kondensatorów od około **33 pF** oraz częstotliwość sygnałów cyfrowych do **250 kHz**.
 
 Repozytorium zawiera zarówno część programową, jak i sprzętową projektu: firmware, schemat oraz projekt PCB wykonany w **KiCad 9.0**.
 
@@ -186,7 +186,7 @@ Wykorzystane biblioteki:
 
 **ESP32-C3-Zero Capacitance & Frequency Meter** is a compact open-source capacitance and frequency meter based on the **ESP32-C3-Zero** microcontroller.
 
-The project was created as a low-cost and practical measurement tool for electronics work. The device can measure capacitor values and digital signal frequencies.
+The project was created as a low-cost and practical measurement tool for electronics work. The device can measure capacitor values starting from approximately **33 pF** and digital signal frequencies up to **250 kHz**.
 
 This repository contains both the software and hardware parts of the project: firmware, schematic and PCB design created in **KiCad 9.0**.
 
